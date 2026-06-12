@@ -1,0 +1,1 @@
+docker-compose -f task6/docker-compose.yml up -d --scale back-end=2
